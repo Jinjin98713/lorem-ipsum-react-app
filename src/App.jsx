@@ -8,14 +8,14 @@ function App() {
         <h1>Lorem Ipsum REACT</h1>
 
         <div className="container">
-          <div className="col-1">
+          <div>
             <h2>Etape 1</h2>
             <Content
               name="Lorem"
               text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse consequatur quidem laboriosam vero aut aperiam! Sequi nisi omnis iste. Saepe dolor assumenda, ratione consequatur exercitationem optio adipisci reiciendis impedit aperiam!"
             />
           </div>
-          <div className="col-2">
+          <div>
             <h2>Etape 2</h2>
             <Content
               name="Lorem"
