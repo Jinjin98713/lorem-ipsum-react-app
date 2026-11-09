@@ -9,14 +9,12 @@ function App() {
 
         <div className="container">
           <div>
-            <h2>Etape 1</h2>
             <Content
               name="Lorem"
               text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse consequatur quidem laboriosam vero aut aperiam! Sequi nisi omnis iste. Saepe dolor assumenda, ratione consequatur exercitationem optio adipisci reiciendis impedit aperiam!"
             />
           </div>
           <div>
-            <h2>Etape 2</h2>
             <Content
               name="Lorem"
               text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse consequatur quidem laboriosam vero aut aperiam! Sequi nisi omnis iste. Saepe dolor assumenda, ratione consequatur exercitationem optio adipisci reiciendis impedit aperiam!"
